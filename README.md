@@ -1,5 +1,6 @@
 <h1 align='center'> Hi, I'm Fellipe Silvestre <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
+- 🧑‍💼 Currently Front-End Developer at [Looqbox](https://github.com/looqbox)
 - 🔥 Former Penetration Tester with international experience
 - 🌱 Currently studying MBA in Fullstack Development at [Rocketseat](https://github.com/Rocketseat)
 - 💬 Ask me about **Cybersecurity, Hacking, Python, Javascript**
