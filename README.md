@@ -3,7 +3,7 @@
 - 🧑‍💼 Currently Front-End Developer at [Looqbox](https://github.com/looqbox)
 - 🔥 Former Penetration Tester with international experience
 - 🌱 Currently studying MBA in Fullstack Development at [Rocketseat](https://github.com/Rocketseat)
-- 💬 Ask me about **Cybersecurity, Hacking, Python, Javascript**
+- 💬 Ask me about **Typescript, React, Cybersecurity and literature**
 
 <br>
 
