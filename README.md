@@ -14,9 +14,11 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=flat&logo=styled-components)
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
 ![Nest](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-05122A?style=flat&logo=Prisma)
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
