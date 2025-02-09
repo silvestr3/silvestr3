@@ -10,6 +10,7 @@
 🛠 &nbsp;Tech Stack
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
